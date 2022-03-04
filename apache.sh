@@ -5,3 +5,5 @@ sudo systemctl start httpd
 sudo systemctl enable httpd 
 sudo systemctl status httpd
 echo <h1>hello<h1>
+echo <h2>hello1<h2>
+echo "hello3"
